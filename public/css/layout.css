@@ -1,0 +1,17 @@
+body{
+    background-color: black !important;
+}
+
+li.active {
+    color: red !important;
+}
+
+.error{
+  background-color: red;
+  color: white
+}
+
+.success{
+  background-color: #069b26;
+  color: white
+}
