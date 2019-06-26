@@ -1,26 +1,7 @@
-Material Design for Bootstrap
+This project was developed as a gift for a friend who is photographer. I developed this portfolio utilizing the Laravel framework for back-end; and Bootstrap and AOS library for the front-end.
 
-Version: MDB Free 4.8.2
+There is a database with an users table that saves the info of all the people who send a form. The form is a contact form; and once it is sent; the page owner receives an e-mail with the contact information and message.
 
-Documentation:
-https://mdbootstrap.com/
+At the back-end level, the routes are configured to change the views when clicking the elements of the menu; in addition, controllers and REST functions are called to perform their defined tasks: insert data to the database and send e-mails to the page owner.
 
-Getting started:
-https://mdbootstrap.com/docs/jquery/getting-started/download/
-
-Tutorials:
-MDB-Bootstrap: https://mdbootstrap.com/education/bootstrap/
-MDB-Wordpress: https://mdbootstrap.com/education/wordpress/
-
-Templates:
-https://mdbootstrap.com/templates/
-
-License:
-https://mdbootstrap.com/general/license/
-
-Support:
-https://mdbootstrap.com/forums/forum/support/
-
-Contact:
-office@mdbootstrap.com
-
+If you would like to see the website, you can access through www.keylerphotography.com
