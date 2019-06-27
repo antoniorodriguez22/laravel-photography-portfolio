@@ -17,7 +17,6 @@ class MessagesController extends Controller
         'comment'=>'required'
       ]);
 
-      // if(ContactUS::)
 
        ContactUS::create($request->all());
 
